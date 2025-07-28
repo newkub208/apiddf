@@ -1,0 +1,16 @@
+{
+  "name": "facebook-ai-bot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger bot with AI capabilities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
